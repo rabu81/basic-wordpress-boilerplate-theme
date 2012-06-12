@@ -1,0 +1,18 @@
+/*
+Theme Name: Your template name
+Theme URI: http://yourdomain.com/path/
+Author: Your Name
+Author URI: http://yourdomain.com/
+Description: Add your description here
+Version: 1.0
+License: GNU General Public License
+License URI: license.txt
+Tags: tag, other-tag, third-tag
+*/
+
+/*
+Your CSS style goes here:
+*/
+body {
+	background-color: yellow;
+}
